@@ -28,7 +28,7 @@ The dashboard provides insights into store performance, sales distribution, orde
 
 ## Dashboard Preview
 
-![Excel Dashboard](Screenshot.png)
+![Excel Dashboard](Screenshot.jpg)
 
 ## How to Use
 1. Download the Excel file from this repository.
